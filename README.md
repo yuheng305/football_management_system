@@ -1,4 +1,4 @@
-# Football Tournament Information System
+# Football Tournament Managament System
 
 ## Description
 
